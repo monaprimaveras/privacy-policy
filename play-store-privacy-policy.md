@@ -57,7 +57,7 @@ These Services do not address anyone under the age of 13. We do not knowingly co
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
 
 
-## Third Party Privacy Policies<
+## Third Party Privacy Policies
 
 Mona Primaveras's Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options. 
 

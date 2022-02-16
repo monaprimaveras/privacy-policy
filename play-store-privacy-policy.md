@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Frogobox Media built the [App Name] app as an Ad Supported app. This SERVICE is provided by Frogobox Media at no cost and is intended for use as is.
+Mona Primaveras built the [App Name] app as an Ad Supported app. This SERVICE is provided by Mona Primaveras at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
@@ -59,7 +59,7 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 
 ## Third Party Privacy Policies
 
-Frogobox Media's Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options. 
+Mona Primaveras's Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options. 
 
 You can choose to disable cookies through your individual browser options. To know more detailed information about cookie management with specific web browsers, it can be found at the browsers' respective websites.
 
@@ -97,7 +97,7 @@ If you make a request, we have one month to respond to you. If you would like to
 
 Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.
 
-Frogobox Media does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.
+Mona Primaveras does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.
 
 
 ## Contact Us
